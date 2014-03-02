@@ -1,0 +1,4 @@
+EasterEggs
+==========
+
+EasterEggs Cryptocurrency
